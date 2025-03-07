@@ -1,6 +1,6 @@
 let arr=['Red','Green','White','Black']
 
-function deleteItem()
+function solve()
 {
 	let val=document.getElementById('colorSelect').value;
 	let sela=document.getElementById('colorSelect');
